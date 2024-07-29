@@ -1,0 +1,9 @@
+url:
+https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=10&regionCode=SA&key=AIzaSyDQgg9iN4yo8vByMNHhZvxup3ZCk5q29Po
+
+key:
+AIzaSyDQgg9iN4yo8vByMNHhZvxup3ZCk5q29Po
+
+single url: 
+https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&id=
+we put the id then &key= the key
